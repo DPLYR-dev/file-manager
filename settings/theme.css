@@ -36,11 +36,11 @@ http://redirect.monstaftp.com/upgrade
 
 .toolbar button.active:hover {
   background-color: #2e2e2e;
-  border-bottom-color: #efa72e; }
+  border-bottom-color: #049DF8; }
 
 #slidebar i:hover {
   background-color: #2e2e2e;
-  border-bottom-color: #efa72e; }
+  border-bottom-color: #049DF8; }
 
 #history .dropdown-menu {
   background-color: #fffff3;
@@ -107,7 +107,7 @@ http://redirect.monstaftp.com/upgrade
     width: 23px; } }
 
 .label-warning {
-  background-color: #efa72e;
+  background-color: #049DF8;
   color: white; }
 
 .btn-primary {

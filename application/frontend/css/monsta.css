@@ -1388,12 +1388,12 @@ button:focus, input:focus, select:focus, textarea:focus {
 
 .toolbar button.active:hover {
     background-color: #2e2e2e;
-    border-bottom-color: #efa72e
+    border-bottom-color: #049DF8
 }
 
 #slidebar i:hover {
     background-color: #2e2e2e;
-    border-bottom-color: #efa72e
+    border-bottom-color: #049DF8
 }
 
 #history .dropdown-menu {
@@ -1475,7 +1475,7 @@ button:focus, input:focus, select:focus, textarea:focus {
 }
 
 .label-warning {
-    background-color: #efa72e;
+    background-color: #049DF8;
     color: white
 }
 
