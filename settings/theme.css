@@ -82,16 +82,17 @@ http://redirect.monstaftp.com/upgrade
 
 .toolbar .logo {
   background: url("../application/frontend/images/monsta-logo-400w.png") no-repeat center center;
-  background-size: 144px 33px;
-  height: 33px;
-  width: 144px; }
+  background-size: 75px ;
+  height: 75px;
+  width: 75px; }
 
 @media (max-width: 1000px) {
   .toolbar .logo {
     background: url("../application/frontend/images/monsta-logo-400w.png") no-repeat center center;
-    background-size: 144px 33px;
+    background-size: 75px ;
     background-position: -26px;
-    width: 29px; } }
+    /* width: 29px; */
+   } }
 
 #modal-editor .modal-footer .logo {
   background: url("../application/frontend/images/monsta-logo-400w.png") no-repeat center center;
