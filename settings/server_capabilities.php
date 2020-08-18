@@ -1,0 +1,1 @@
+{"ftp:\/\/kornweb.com:21":{"SYSTYPE":0,"FEATURES":["EPRT","IDLE","MDTM","SIZE","MFMT","REST STREAM","MLST type*;size*;sizd*;modify*;UNIX.mode*;UNIX.uid*;UNIX.gid*;unique*;","MLSD","AUTH TLS","PBSZ","PROT","UTF8","TVFS","ESTA","PASV","EPSV","SPSV","ESTP"],"CREATION_TIME":1597089728}}
