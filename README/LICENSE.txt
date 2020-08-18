@@ -1,11 +1,11 @@
-MONSTA FTP TERMS & CONDITIONS
+DPLYR File Manager TERMS & CONDITIONS
 
 1. PREAMBLE
 
 This Agreement, considered effective on install/first-use (hereinafter: Effective Date) 
 governs the relationship between you (an individual, business entity, or organization) 
 (hereinafter: Licensee) and Monsta Limited (hereinafter: Licensor). This Agreement sets the 
-terms, rights, restrictions and obligations on using Monsta FTP (hereinafter: The Software) 
+terms, rights, restrictions and obligations on using DPLYR File Manager (hereinafter: The Software) 
 created and owned by Licensor, as detailed herein.
 
 2. LICENSE GRANT

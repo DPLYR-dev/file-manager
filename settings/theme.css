@@ -6,11 +6,11 @@ Rebranding is only available in the Host Edition
 http://redirect.monstaftp.com/upgrade
 */
 .toolbar {
-  background-color: #353535; }
+  background-color: #049DF8; }
 
 .toolbar button {
-  background-color: #353535;
-  border-bottom-color: #353535; }
+  background-color: #049DF8;
+  border-bottom-color: #049DF8; }
 
 .toolbar button.inactive {
   color: silver; }
@@ -19,19 +19,19 @@ http://redirect.monstaftp.com/upgrade
   color: white; }
 
 #slidebar {
-  background-color: #353535; }
+  background-color: #049DF8; }
 
 #slidebar i {
-  border-bottom-color: #353535; }
+  border-bottom-color: #049DF8; }
 
 #slidebar a {
   color: white; }
 
 #modal-editor .file-path {
-  border-color: #353535; }
+  border-color: #049DF8; }
 
 #modal-editor .modal-footer {
-  background-color: #353535;
+  background-color: #049DF8;
   color: white; }
 
 .toolbar button.active:hover {

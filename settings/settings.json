@@ -1,7 +1,8 @@
 {
     "language": "en_us",
-    "hideProUpgradeMessages": false,
+    "resumeSessionInfoDisplaySeconds": 1,
+    "hideProUpgradeMessages": true,
     "connectionRestrictions": {
-        "types": ["ftp","sftp"]
+        "types": ["ftp"]
     }
 }

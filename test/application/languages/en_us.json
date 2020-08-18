@@ -292,15 +292,15 @@
 
   "FORM_INCOMPLETE_ERROR": "Please complete all form fields to submit.",
 
-  "LATEST_VERSION_AVAILABLE_MESSAGE": "Version {version} of Monsta FTP is available for download.",
+  "LATEST_VERSION_AVAILABLE_MESSAGE": "Version {version} of DPLYR File Manager is available for download.",
   "AUTOMATIC_UPGRADE_REQUIRES_PROFILE_PASSWORD_MESSAGE": "You must set a master password in the login modal before you can install the upgrade.",
-  "AUTOMATIC_UPGRADE_LICENSED_ONLY_MESSAGE": "Automatic updates are only available in the upgrade version of Monsta FTP. Please {download_link} the latest version and manually update your install.",
+  "AUTOMATIC_UPGRADE_LICENSED_ONLY_MESSAGE": "Automatic updates are only available in the upgrade version of DPLYR File Manager. Please {download_link} the latest version and manually update your install.",
   "PRE_UPGRADE_RELEASE_NOTES_MESSAGE": "Before updating, please read our {release_notes_link} as there may be configuration changes you need to be aware of.",
   "RELEASE_NOTES_UPGRADE_LINK_TEXT": "release notes",
   "START_UPGRADE_ACTION": "Start Upgrade",
   "DO_NOT_CLOSE_DURING_UPGRADE_BROWSER_MESSAGE": "Please do not close your browser during the upgrade process.",
   "UPGRADING_TITLE": "Upgrading",
-  "UPGRADE_ARCHIVE_NOT_VALID_ERROR": "The file at \"{path}\" does not appear to be a Monsta FTP install zip.",
+  "UPGRADE_ARCHIVE_NOT_VALID_ERROR": "The file at \"{path}\" does not appear to be a DPLYR File Manager install zip.",
   "INSTALL_ARCHIVE_EXTRACT_ERROR": "Unable to extract the installation archive.",
   "UPGRADE_COMPLETE_MESSAGE": "Congratulations Monsta has been installed. Please refresh the page and you will be on Monsta version {version}.",
   "REFRESH": "Refresh",
@@ -311,7 +311,7 @@
   "FILE_CHANGED_OVERWRITE": "Overwrite file on server",
   "FILE_CHANGED_LOAD": "Load changes from server",
 
-  "POWERED_BY_MONSTA_FTP": "Powered by Monsta FTP",
+  "POWERED_BY_MONSTA_FTP": "Powered by DPLYR File Manager",
   "UPGRADE_DOWNLOAD_LINK_TEXT": "download",
   "UPGRADE_REQUIRED": "Upgrade Required",
   "UPGRADE_REQUIRED_MESSAGE": "Oops, you've clicked an action that's only available in the upgrade version. You can {trial_link} free for 45 days, or {purchase_link}.",

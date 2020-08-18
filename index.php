@@ -114,11 +114,11 @@
     <div class="container">
         <div class="grid12">
             <p>
-                This PHP install has magic quotes enabled. This feature of PHP has been deprecated, and Monsta FTP is
+                This PHP install has magic quotes enabled. This feature of PHP has been deprecated, and DPLYR File Manager is
                 not compatible with magic quotes.
             </p>
             <p>
-                Please disable PHP magic quotes to use Monsta FTP.
+                Please disable PHP magic quotes to use DPLYR File Manager.
             </p>
             <p>
                 For more information, please see:

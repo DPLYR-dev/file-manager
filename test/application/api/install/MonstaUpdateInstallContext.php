@@ -65,7 +65,7 @@
         private function validateMonstaItemExists($installDirectory, $itemRelativePath) {
             $itemPath = PathOperations::join($installDirectory, $itemRelativePath);
             if (@!file_exists($itemPath)) {
-                throw new LocalizableException("Could not update in $installDirectory as it does not appear to be a Monsta FTP install; missing $itemPath",
+                throw new LocalizableException("Could not update in $installDirectory as it does not appear to be a DPLYR File Manager install; missing $itemPath",
                     LocalizableExceptionDefinition::$INSTALL_DIRECTORY_INVALID_ERROR, array("installPath" => $installDirectory, "itemPath" => $itemPath));
             }
         }

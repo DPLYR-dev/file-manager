@@ -457,7 +457,7 @@
         if (defined("MFTP_PAGE_TITLE") && $isHostEdition)
             return MFTP_PAGE_TITLE;
 
-        return "Monsta FTP";
+        return "DPLYR File Manager";
     }
 
     function addressIsIpV6($address) {

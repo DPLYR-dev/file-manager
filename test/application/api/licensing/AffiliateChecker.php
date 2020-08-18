@@ -11,7 +11,7 @@
             $contextOptions  = array (
                 "http" => array (
                     "method" => "GET",
-                    "header"=> "User-agent: Monsta FTP " . MONSTA_VERSION . "\r\n"
+                    "header"=> "User-agent: DPLYR File Manager " . MONSTA_VERSION . "\r\n"
                 )
             );
 

@@ -45,7 +45,7 @@
                 $archiveHandle->close();
 
             $errorPath = basename(dirname($archivePath)) . "/" . basename($archivePath);
-            throw new LocalizableException("$errorPath is unreadable or not a Monsta FTP install archive.",
+            throw new LocalizableException("$errorPath is unreadable or not a DPLYR File Manager install archive.",
                 LocalizableExceptionDefinition::$INSTALL_PATH_NOT_WRITABLE_ERROR, array("path" => $errorPath));
         }
 

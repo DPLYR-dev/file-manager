@@ -54,7 +54,7 @@
 </head>
 <body>
 
-<h2>Monsta FTP Diagnostics Tool</h2>
+<h2>DPLYR File Manager Diagnostics Tool</h2>
 
 <?php
     $systype = "";
